@@ -70,6 +70,13 @@
     "_name": "_37152ff0"
   },
   {
+    "name": "parentSignup___en",
+    "path": "/parentSignup",
+    "component": "C:\\\\Users\\\\Stephen Raj\\\\Documents\\\\Paathshala-Intern\\\\PE-COGNIZE\\\\FrontEnd\\\\PE-HR-App\\\\pages\\\\parentSignup.vue",
+    "chunkName": "pages/parentSignup",
+    "_name": "_a85c2b1c"
+  },
+  {
     "name": "showAnswers___en",
     "path": "/showAnswers",
     "component": "C:\\\\Users\\\\Stephen Raj\\\\Documents\\\\Paathshala-Intern\\\\PE-COGNIZE\\\\FrontEnd\\\\PE-HR-App\\\\pages\\\\showAnswers.vue",
@@ -166,6 +173,13 @@
     "component": "C:\\\\Users\\\\Stephen Raj\\\\Documents\\\\Paathshala-Intern\\\\PE-COGNIZE\\\\FrontEnd\\\\PE-HR-App\\\\pages\\\\notifications.vue",
     "chunkName": "pages/notifications",
     "_name": "_37152ff0"
+  },
+  {
+    "name": "parentSignup___ar",
+    "path": "/ar/parentSignup",
+    "component": "C:\\\\Users\\\\Stephen Raj\\\\Documents\\\\Paathshala-Intern\\\\PE-COGNIZE\\\\FrontEnd\\\\PE-HR-App\\\\pages\\\\parentSignup.vue",
+    "chunkName": "pages/parentSignup",
+    "_name": "_a85c2b1c"
   },
   {
     "name": "showAnswers___ar",
