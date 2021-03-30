@@ -7,7 +7,7 @@ export default function(context) {
     link: createHttpLink({
       //this is appolo-client.js in plugins folder of nuxt app 
 
-      uri:'https://pe-cognize-app-backend-gvzp3.ondigitalocean.app/graphql',
+      uri:'https://pe-cognize-app-backend-dev-et3kc.ondigitalocean.app/graphql',
       //uri: 'http://localhost:5000/graphql', 
       //credentials: 'include',
       fetch: (uri, options) => {
