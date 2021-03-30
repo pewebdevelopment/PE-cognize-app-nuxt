@@ -114,7 +114,7 @@
 <script>
 import { CollapseTransition } from 'vue2-transitions';
 import { BaseNav, Modal } from '@/components';
-//import { CAvatar, CAvatarBadge } from "@chakra-ui/vue";
+
 
 
 export default {
@@ -164,6 +164,7 @@ export default {
      
 
       this.name = initials;
+      console.log(this.name);
       
     }
     

@@ -14,6 +14,8 @@
 
  * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
  */
+require('dotenv').config()
+
 export default {
   mode: 'universal',
   /*
@@ -43,9 +45,17 @@ export default {
   // ],
   // link: [
   //   { rel: 'icon', type: 'image/x-con', href: 'favicon.ico' },
-  // ],
-  // script: []
-    // --------------------
+  // ]
+  ,
+  script: [
+    {
+      hid: "rzpay",
+      src:
+        "https://checkout.razorpay.com/v1/checkout.js",
+      defer: true
+    }
+  ]
+    
   },
   router: {
     linkExactActiveClass: 'active'
@@ -82,7 +92,8 @@ export default {
     'nuxt-i18n',
     '@nuxtjs/bootstrap-vue',
     '@nuxtjs/apollo',
-    '@nuxtjs/axios'
+    '@nuxtjs/axios',
+    '@nuxtjs/dotenv'
   ],
   
   apollo: {
