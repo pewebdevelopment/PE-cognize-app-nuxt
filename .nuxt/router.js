@@ -14,6 +14,7 @@ const _ce68bab0 = () => interopDefault(import('..\\pages\\candidatevacancy.vue' 
 const _6b33009e = () => interopDefault(import('..\\pages\\editVacancy.vue' /* webpackChunkName: "pages/editVacancy" */))
 const _03e2a209 = () => interopDefault(import('..\\pages\\login.vue' /* webpackChunkName: "pages/login" */))
 const _37152ff0 = () => interopDefault(import('..\\pages\\notifications.vue' /* webpackChunkName: "pages/notifications" */))
+const _a85c2b1c = () => interopDefault(import('..\\pages\\parentSignup.vue' /* webpackChunkName: "pages/parentSignup" */))
 const _ec6d0850 = () => interopDefault(import('..\\pages\\showAnswers.vue' /* webpackChunkName: "pages/showAnswers" */))
 const _7668e7b0 = () => interopDefault(import('..\\pages\\signup.vue' /* webpackChunkName: "pages/signup" */))
 const _3775bcd3 = () => interopDefault(import('..\\pages\\studentSignup.vue' /* webpackChunkName: "pages/studentSignup" */))
@@ -78,6 +79,10 @@ export const routerOptions = {
     component: _37152ff0,
     name: "notifications___en"
   }, {
+    path: "/parentSignup",
+    component: _a85c2b1c,
+    name: "parentSignup___en"
+  }, {
     path: "/showAnswers",
     component: _ec6d0850,
     name: "showAnswers___en"
@@ -133,6 +138,10 @@ export const routerOptions = {
     path: "/ar/notifications",
     component: _37152ff0,
     name: "notifications___ar"
+  }, {
+    path: "/ar/parentSignup",
+    component: _a85c2b1c,
+    name: "parentSignup___ar"
   }, {
     path: "/ar/showAnswers",
     component: _ec6d0850,

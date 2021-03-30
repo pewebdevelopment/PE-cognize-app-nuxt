@@ -62,7 +62,7 @@
             $userName:String!
             $password:String!
             $permission:String!
-          ){signUp(
+          ){adminSignUp(
             email:$email,
             userName:$userName,
             password:$password,
@@ -76,7 +76,7 @@
         }
         })
         console.log(result)
-        if(result.data.signUp=='user created'){
+        if(result.data.adminSignUp==="admin created"){
           this.$router.push("/login");
         }
         else{

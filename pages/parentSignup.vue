@@ -12,7 +12,7 @@
 >{{ err }}</v-alert>
 </div>
   <form @submit.prevent="signUp">
-    <p class="h2 text-center mb-4">Student's Sign up</p>
+    <p class="h2 text-center mb-4">Parent's Sign up</p>
     <label for="defaultFormRegisterNameEx" class="grey-text">First name</label>
     <input type="text"  v-model="firstName" class="form-control"/>
     <br/>
@@ -25,30 +25,12 @@
     <label for="defaultFormRegisterPhoneEx" class="grey-text">Your phoneno</label>
     <input type="number" v-model="phone" class="form-control"/>
     <br/>
-    <label for="defaultFormRegisterGradeEx" class="grey-text">Select Grade</label>
-    <select name="Grade" v-model="grade" id="Grade" class="form-control">
-        <option value="5">5</option>
-        <option value="6">6</option>
-        <option value="7">7</option>
-        <option value="8">8</option>
-        <option value="9">9</option>
-        <option value="10">10</option>
-        <option value="11">11</option>
-        <option value="12">12</option>
-        <option value="12+">12+</option>
-        <option value="college">College</option>
-        <option value="other">Other</option>
-
-    </select>
-    <br/>
-    
     <label for="defaultFormRegisterPasswordEx" class="grey-text">Your password</label>
     <input type="password" v-model="password" class="form-control"/>
    
     <br/>
     <div class="text-center mt-4">
       <button class="btn btn-unique" type="submit" >Signup</button>
-      <button class="btn btn-unique" @click="teacherSignup" >Teacher signUp</button>
     </div>
   </form>
  
@@ -70,9 +52,9 @@
         lastName:"",
         phone:"",
         email:"",
-        grade:"",
         password:"",
-        permission:"student",
+        permission:"parent",
+        studentId:this.$router.currentRoute.query['studentId'],
         err:""
       }
     },
@@ -90,37 +72,36 @@
             $email:String!
             $firstName:String!
             $lastName:String!
+            $phone:String!
+            $studentId:String!
             $password:String!
             $permission:String!
-            $phone:String!
-            $grade:String!
-          ){studentSignUp(
-            email:$email,
-            firstName:$firstName,
-            lastName:$lastName,
-            password:$password,
-            permission:$permission,
-            phone:$phone,
-            grade:$grade,
-
+          ){parentSignUp(
+            parentEmail:$email,
+            parentFirstName:$firstName,
+            parentLastName:$lastName,
+            parentPhone:$phone,
+            studentId:$studentId
+            parentPassword:$password,
+            permission:$permission
           )}`,
         variables:{
           email:this.email,
           firstName:this.firstName,
           lastName:this.lastName,
           phone:this.phone,
-          grade:this.grade,
           password:this.password,
+          studentId:this.studentId,
           permission:this.permission
         }
         })
-        console.log(result.data.studentSignUp)
-        if(result.data.studentSignUp=="Email exists"){
-          this.err="email exists"
-          console.log("Email exists, Try New")
+        console.log(result)
+        if(result.data.parentSignUp=='parent created'){
+          this.$router.push("/login");
         }
         else{
-          this.$router.push("/parentSignup?studentId="+result.data.studentSignUp);
+          this.err="email exists"
+          console.log("Email exists, Try New")
         }
       },
     }
