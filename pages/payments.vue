@@ -31,7 +31,7 @@ export default {
           order() {
       const self = this;
       const rzp_options = {
-        key: process.env.RAZORPAY_KEY,
+        key: process.env.razorPayKey,
         amount: 100,
         name: "Patshaala",
         description: "Demo payment",

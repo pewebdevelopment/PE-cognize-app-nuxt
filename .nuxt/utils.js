@@ -169,7 +169,7 @@ export async function setContext (app, context) {
       payload: context.payload,
       error: context.error,
       base: '/',
-      env: {"RAZORPAY_KEY":"rzp_live_m6AS1DmObyiIoj"}
+      env: {"razorPayKey":"rzp_live_m6AS1DmObyiIoj"}
     }
     // Only set once
     if (!process.static && context.req) {
