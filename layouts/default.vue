@@ -75,6 +75,17 @@
           }"
         >
         </sidebar-item>-->
+        <div v-if =" role ==='student' ">
+        <sidebar-item
+          :link="{
+            name: 'payments',
+            icon: 'tim-icons icon-bell-55',
+            path: '/payments',
+          }"
+        >
+        </sidebar-item>
+        </div>
+
       <div v-if =" role != 'No Access' ">
         <sidebar-item
           :link="{
