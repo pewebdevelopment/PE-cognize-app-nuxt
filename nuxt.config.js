@@ -14,13 +14,15 @@
 
  * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
  */
-require('dotenv').config()
 
 export default {
   mode: 'universal',
   /*
   ** Headers of the page
   */
+ env:{
+   razorPayKey : process.env.RAZORPAY_KEY
+ },
   head: {
     title: 'Nuxt Black Dashboard',
     meta: [
@@ -92,8 +94,7 @@ export default {
     'nuxt-i18n',
     '@nuxtjs/bootstrap-vue',
     '@nuxtjs/apollo',
-    '@nuxtjs/axios',
-    '@nuxtjs/dotenv'
+    '@nuxtjs/axios'
   ],
   
   apollo: {
