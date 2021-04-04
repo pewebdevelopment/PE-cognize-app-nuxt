@@ -4,24 +4,24 @@ import { normalizeURL, decode } from '@nuxt/ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _005691bc = () => interopDefault(import('../pages/addVancany.vue' /* webpackChunkName: "pages/addVancany" */))
-const _9e982974 = () => interopDefault(import('../pages/adminSignup.vue' /* webpackChunkName: "pages/adminSignup" */))
-const _623e1f3e = () => interopDefault(import('../pages/applyVacancy.vue' /* webpackChunkName: "pages/applyVacancy" */))
-const _768fe691 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
-const _0ab22742 = () => interopDefault(import('../pages/candidate.vue' /* webpackChunkName: "pages/candidate" */))
-const _0d10e903 = () => interopDefault(import('../pages/candidateresponse.vue' /* webpackChunkName: "pages/candidateresponse" */))
-const _338611a9 = () => interopDefault(import('../pages/candidatevacancy.vue' /* webpackChunkName: "pages/candidatevacancy" */))
-const _1230f410 = () => interopDefault(import('../pages/editVacancy.vue' /* webpackChunkName: "pages/editVacancy" */))
-const _403789a8 = () => interopDefault(import('../pages/login.vue' /* webpackChunkName: "pages/login" */))
-const _637440a7 = () => interopDefault(import('../pages/notifications.vue' /* webpackChunkName: "pages/notifications" */))
-const _5d5601f3 = () => interopDefault(import('../pages/parentSignup.vue' /* webpackChunkName: "pages/parentSignup" */))
-const _0683d9be = () => interopDefault(import('../pages/payments.vue' /* webpackChunkName: "pages/payments" */))
-const _5cd81f92 = () => interopDefault(import('../pages/showAnswers.vue' /* webpackChunkName: "pages/showAnswers" */))
-const _13139869 = () => interopDefault(import('../pages/signup.vue' /* webpackChunkName: "pages/signup" */))
-const _9316d51c = () => interopDefault(import('../pages/studentSignup.vue' /* webpackChunkName: "pages/studentSignup" */))
-const _99454848 = () => interopDefault(import('../pages/user.vue' /* webpackChunkName: "pages/user" */))
-const _91a37e10 = () => interopDefault(import('../pages/Vacancies.vue' /* webpackChunkName: "pages/Vacancies" */))
-const _65700a66 = () => interopDefault(import('../pages/GeneralViews/NotFoundPage.vue' /* webpackChunkName: "pages/GeneralViews/NotFoundPage" */))
+const _3f923953 = () => interopDefault(import('..\\pages\\addVancany.vue' /* webpackChunkName: "pages/addVancany" */))
+const _58ed368f = () => interopDefault(import('..\\pages\\adminSignup.vue' /* webpackChunkName: "pages/adminSignup" */))
+const _7da385d6 = () => interopDefault(import('..\\pages\\applyVacancy.vue' /* webpackChunkName: "pages/applyVacancy" */))
+const _69519c9a = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _8bb09e6a = () => interopDefault(import('..\\pages\\candidate.vue' /* webpackChunkName: "pages/candidate" */))
+const _6f8cd98c = () => interopDefault(import('..\\pages\\candidateresponse.vue' /* webpackChunkName: "pages/candidateresponse" */))
+const _3ef56c00 = () => interopDefault(import('..\\pages\\candidatevacancy.vue' /* webpackChunkName: "pages/candidatevacancy" */))
+const _8b2b814e = () => interopDefault(import('..\\pages\\editVacancy.vue' /* webpackChunkName: "pages/editVacancy" */))
+const _32f93fb1 = () => interopDefault(import('..\\pages\\login.vue' /* webpackChunkName: "pages/login" */))
+const _3af044a0 = () => interopDefault(import('..\\pages\\notifications.vue' /* webpackChunkName: "pages/notifications" */))
+const _8773c06c = () => interopDefault(import('..\\pages\\parentSignup.vue' /* webpackChunkName: "pages/parentSignup" */))
+const _3a3b09d6 = () => interopDefault(import('..\\pages\\payments.vue' /* webpackChunkName: "pages/payments" */))
+const _79cd3b80 = () => interopDefault(import('..\\pages\\showAnswers.vue' /* webpackChunkName: "pages/showAnswers" */))
+const _7888a380 = () => interopDefault(import('..\\pages\\signup.vue' /* webpackChunkName: "pages/signup" */))
+const _3588327b = () => interopDefault(import('..\\pages\\studentSignup.vue' /* webpackChunkName: "pages/studentSignup" */))
+const _580f7e9a = () => interopDefault(import('..\\pages\\user.vue' /* webpackChunkName: "pages/user" */))
+const _66a3ca81 = () => interopDefault(import('..\\pages\\Vacancies.vue' /* webpackChunkName: "pages/Vacancies" */))
+const _fc67f0a8 = () => interopDefault(import('..\\pages\\GeneralViews\\NotFoundPage.vue' /* webpackChunkName: "pages/GeneralViews/NotFoundPage" */))
 
 // TODO: remove in Nuxt 3
 const emptyFn = () => {}
@@ -41,147 +41,147 @@ export const routerOptions = {
 
   routes: [{
     path: "/addVancany",
-    component: _005691bc,
+    component: _3f923953,
     name: "addVancany___en"
   }, {
     path: "/adminSignup",
-    component: _9e982974,
+    component: _58ed368f,
     name: "adminSignup___en"
   }, {
     path: "/applyVacancy",
-    component: _623e1f3e,
+    component: _7da385d6,
     name: "applyVacancy___en"
   }, {
     path: "/ar",
-    component: _768fe691,
+    component: _69519c9a,
     name: "index___ar"
   }, {
     path: "/candidate",
-    component: _0ab22742,
+    component: _8bb09e6a,
     name: "candidate___en"
   }, {
     path: "/candidateresponse",
-    component: _0d10e903,
+    component: _6f8cd98c,
     name: "candidateresponse___en"
   }, {
     path: "/candidatevacancy",
-    component: _338611a9,
+    component: _3ef56c00,
     name: "candidatevacancy___en"
   }, {
     path: "/editVacancy",
-    component: _1230f410,
+    component: _8b2b814e,
     name: "editVacancy___en"
   }, {
     path: "/login",
-    component: _403789a8,
+    component: _32f93fb1,
     name: "login___en"
   }, {
     path: "/notifications",
-    component: _637440a7,
+    component: _3af044a0,
     name: "notifications___en"
   }, {
     path: "/parentSignup",
-    component: _5d5601f3,
+    component: _8773c06c,
     name: "parentSignup___en"
   }, {
     path: "/payments",
-    component: _0683d9be,
+    component: _3a3b09d6,
     name: "payments___en"
   }, {
     path: "/showAnswers",
-    component: _5cd81f92,
+    component: _79cd3b80,
     name: "showAnswers___en"
   }, {
     path: "/signup",
-    component: _13139869,
+    component: _7888a380,
     name: "signup___en"
   }, {
     path: "/studentSignup",
-    component: _9316d51c,
+    component: _3588327b,
     name: "studentSignup___en"
   }, {
     path: "/user",
-    component: _99454848,
+    component: _580f7e9a,
     name: "user___en"
   }, {
     path: "/Vacancies",
-    component: _91a37e10,
+    component: _66a3ca81,
     name: "Vacancies___en"
   }, {
     path: "/ar/addVancany",
-    component: _005691bc,
+    component: _3f923953,
     name: "addVancany___ar"
   }, {
     path: "/ar/adminSignup",
-    component: _9e982974,
+    component: _58ed368f,
     name: "adminSignup___ar"
   }, {
     path: "/ar/applyVacancy",
-    component: _623e1f3e,
+    component: _7da385d6,
     name: "applyVacancy___ar"
   }, {
     path: "/ar/candidate",
-    component: _0ab22742,
+    component: _8bb09e6a,
     name: "candidate___ar"
   }, {
     path: "/ar/candidateresponse",
-    component: _0d10e903,
+    component: _6f8cd98c,
     name: "candidateresponse___ar"
   }, {
     path: "/ar/candidatevacancy",
-    component: _338611a9,
+    component: _3ef56c00,
     name: "candidatevacancy___ar"
   }, {
     path: "/ar/editVacancy",
-    component: _1230f410,
+    component: _8b2b814e,
     name: "editVacancy___ar"
   }, {
     path: "/ar/login",
-    component: _403789a8,
+    component: _32f93fb1,
     name: "login___ar"
   }, {
     path: "/ar/notifications",
-    component: _637440a7,
+    component: _3af044a0,
     name: "notifications___ar"
   }, {
     path: "/ar/parentSignup",
-    component: _5d5601f3,
+    component: _8773c06c,
     name: "parentSignup___ar"
   }, {
     path: "/ar/payments",
-    component: _0683d9be,
+    component: _3a3b09d6,
     name: "payments___ar"
   }, {
     path: "/ar/showAnswers",
-    component: _5cd81f92,
+    component: _79cd3b80,
     name: "showAnswers___ar"
   }, {
     path: "/ar/signup",
-    component: _13139869,
+    component: _7888a380,
     name: "signup___ar"
   }, {
     path: "/ar/studentSignup",
-    component: _9316d51c,
+    component: _3588327b,
     name: "studentSignup___ar"
   }, {
     path: "/ar/user",
-    component: _99454848,
+    component: _580f7e9a,
     name: "user___ar"
   }, {
     path: "/ar/Vacancies",
-    component: _91a37e10,
+    component: _66a3ca81,
     name: "Vacancies___ar"
   }, {
     path: "/GeneralViews/NotFoundPage",
-    component: _65700a66,
+    component: _fc67f0a8,
     name: "GeneralViews-NotFoundPage___en"
   }, {
     path: "/ar/GeneralViews/NotFoundPage",
-    component: _65700a66,
+    component: _fc67f0a8,
     name: "GeneralViews-NotFoundPage___ar"
   }, {
     path: "/",
-    component: _768fe691,
+    component: _69519c9a,
     name: "index___en"
   }],
 

@@ -1,5 +1,5 @@
-<template>
-  <nav :class="classes" class="navbar">
+  <template>
+  <nav :class="classes" class="navbar" >
     <div :class="containerClasses">
       <slot name="brand"></slot>
 
@@ -35,9 +35,9 @@
 </template>
 <script>
 import { CollapseTransition } from 'vue2-transitions';
-
-export default {
+export default{
   name: 'base-nav',
+  
   props: {
     show: {
       type: Boolean,
@@ -69,7 +69,7 @@ export default {
     },
     type: {
       type: String,
-      default: 'white',
+      default: 'vue',
       validator(value) {
         return [
           'dark',
@@ -131,6 +131,7 @@ export default {
       this.transitionFinished = true;
     }
   }
-};
+
+}
 </script>
 <style></style>

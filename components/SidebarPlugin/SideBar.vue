@@ -7,9 +7,10 @@
         </a>
         <a href="https://paathshala.world/" class="simple-text logo-normal">
           {{ title }}
-        </a>
+        </a> 
       </div>
-      <slot></slot>
+      
+    
       <ul class="nav">
         <slot name="links">
           <sidebar-item
@@ -91,7 +92,7 @@ export default {
   }
 }
 .sidebar{
-  margin-left:1px;
+  margin-left:-1px;
   margin-top: 0px;
   margin-bottom: auto;
 }
