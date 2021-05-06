@@ -1,5 +1,20 @@
 <template>
-<div class="container">
+<div class="container ">
+  <div class="container mb-5">
+<div class="row">
+<div class="col-4">
+  <h3>
+  <NuxtLink to="/signup">Become a Teacher</NuxtLink>
+  </h3>
+</div>
+<div class="col-4">
+ 
+</div>
+<div class="col-4">
+  <NuxtLink to="/studentSignup">  <button class="btn btn-unique"  >Student signUp</button> </NuxtLink>
+
+</div>
+</div></div>
 <div class="row">
 <div class="col-2"></div>
 <div class="col-7">
@@ -10,7 +25,9 @@
    dense
    outlined
 >{{ err }}</v-alert>
+ 
 </div> 
+
   <form @submit.prevent="signIn">
 
     <p class="h2 text-center mb-4">Sign in</p>

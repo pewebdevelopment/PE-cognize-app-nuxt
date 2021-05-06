@@ -2,253 +2,217 @@
   {
     "name": "addVancany___en",
     "path": "/addVancany",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\addVancany.vue",
-    "chunkName": "pages/addVancany",
-    "_name": "_3f923953"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\addVancany.vue",
+    "chunkName": "pages/addVancany"
   },
   {
     "name": "adminSignup___en",
     "path": "/adminSignup",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\adminSignup.vue",
-    "chunkName": "pages/adminSignup",
-    "_name": "_58ed368f"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\adminSignup.vue",
+    "chunkName": "pages/adminSignup"
   },
   {
     "name": "applyVacancy___en",
     "path": "/applyVacancy",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\applyVacancy.vue",
-    "chunkName": "pages/applyVacancy",
-    "_name": "_7da385d6"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\applyVacancy.vue",
+    "chunkName": "pages/applyVacancy"
   },
   {
     "name": "index___ar",
     "path": "/ar",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_69519c9a"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   },
   {
     "name": "candidate___en",
     "path": "/candidate",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\candidate.vue",
-    "chunkName": "pages/candidate",
-    "_name": "_8bb09e6a"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate"
   },
   {
     "name": "candidateresponse___en",
     "path": "/candidateresponse",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\candidateresponse.vue",
-    "chunkName": "pages/candidateresponse",
-    "_name": "_6f8cd98c"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\candidateresponse.vue",
+    "chunkName": "pages/candidateresponse"
   },
   {
     "name": "candidatevacancy___en",
     "path": "/candidatevacancy",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\candidatevacancy.vue",
-    "chunkName": "pages/candidatevacancy",
-    "_name": "_3ef56c00"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\candidatevacancy.vue",
+    "chunkName": "pages/candidatevacancy"
   },
   {
     "name": "editVacancy___en",
     "path": "/editVacancy",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\editVacancy.vue",
-    "chunkName": "pages/editVacancy",
-    "_name": "_8b2b814e"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\editVacancy.vue",
+    "chunkName": "pages/editVacancy"
   },
   {
     "name": "login___en",
     "path": "/login",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\login.vue",
-    "chunkName": "pages/login",
-    "_name": "_32f93fb1"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
   },
   {
     "name": "notifications___en",
     "path": "/notifications",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\notifications.vue",
-    "chunkName": "pages/notifications",
-    "_name": "_3af044a0"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\notifications.vue",
+    "chunkName": "pages/notifications"
   },
   {
     "name": "parentSignup___en",
     "path": "/parentSignup",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\parentSignup.vue",
-    "chunkName": "pages/parentSignup",
-    "_name": "_8773c06c"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\parentSignup.vue",
+    "chunkName": "pages/parentSignup"
   },
   {
     "name": "payments___en",
     "path": "/payments",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\payments.vue",
-    "chunkName": "pages/payments",
-    "_name": "_3a3b09d6"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\payments.vue",
+    "chunkName": "pages/payments"
   },
   {
     "name": "showAnswers___en",
     "path": "/showAnswers",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\showAnswers.vue",
-    "chunkName": "pages/showAnswers",
-    "_name": "_79cd3b80"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\showAnswers.vue",
+    "chunkName": "pages/showAnswers"
   },
   {
     "name": "signup___en",
     "path": "/signup",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\signup.vue",
-    "chunkName": "pages/signup",
-    "_name": "_7888a380"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup"
   },
   {
     "name": "studentSignup___en",
     "path": "/studentSignup",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\studentSignup.vue",
-    "chunkName": "pages/studentSignup",
-    "_name": "_3588327b"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\studentSignup.vue",
+    "chunkName": "pages/studentSignup"
   },
   {
     "name": "user___en",
     "path": "/user",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\user.vue",
-    "chunkName": "pages/user",
-    "_name": "_580f7e9a"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\user.vue",
+    "chunkName": "pages/user"
   },
   {
     "name": "Vacancies___en",
     "path": "/Vacancies",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\Vacancies.vue",
-    "chunkName": "pages/Vacancies",
-    "_name": "_66a3ca81"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\Vacancies.vue",
+    "chunkName": "pages/Vacancies"
   },
   {
     "name": "addVancany___ar",
     "path": "/ar/addVancany",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\addVancany.vue",
-    "chunkName": "pages/addVancany",
-    "_name": "_3f923953"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\addVancany.vue",
+    "chunkName": "pages/addVancany"
   },
   {
     "name": "adminSignup___ar",
     "path": "/ar/adminSignup",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\adminSignup.vue",
-    "chunkName": "pages/adminSignup",
-    "_name": "_58ed368f"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\adminSignup.vue",
+    "chunkName": "pages/adminSignup"
   },
   {
     "name": "applyVacancy___ar",
     "path": "/ar/applyVacancy",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\applyVacancy.vue",
-    "chunkName": "pages/applyVacancy",
-    "_name": "_7da385d6"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\applyVacancy.vue",
+    "chunkName": "pages/applyVacancy"
   },
   {
     "name": "candidate___ar",
     "path": "/ar/candidate",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\candidate.vue",
-    "chunkName": "pages/candidate",
-    "_name": "_8bb09e6a"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate"
   },
   {
     "name": "candidateresponse___ar",
     "path": "/ar/candidateresponse",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\candidateresponse.vue",
-    "chunkName": "pages/candidateresponse",
-    "_name": "_6f8cd98c"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\candidateresponse.vue",
+    "chunkName": "pages/candidateresponse"
   },
   {
     "name": "candidatevacancy___ar",
     "path": "/ar/candidatevacancy",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\candidatevacancy.vue",
-    "chunkName": "pages/candidatevacancy",
-    "_name": "_3ef56c00"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\candidatevacancy.vue",
+    "chunkName": "pages/candidatevacancy"
   },
   {
     "name": "editVacancy___ar",
     "path": "/ar/editVacancy",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\editVacancy.vue",
-    "chunkName": "pages/editVacancy",
-    "_name": "_8b2b814e"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\editVacancy.vue",
+    "chunkName": "pages/editVacancy"
   },
   {
     "name": "login___ar",
     "path": "/ar/login",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\login.vue",
-    "chunkName": "pages/login",
-    "_name": "_32f93fb1"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
   },
   {
     "name": "notifications___ar",
     "path": "/ar/notifications",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\notifications.vue",
-    "chunkName": "pages/notifications",
-    "_name": "_3af044a0"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\notifications.vue",
+    "chunkName": "pages/notifications"
   },
   {
     "name": "parentSignup___ar",
     "path": "/ar/parentSignup",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\parentSignup.vue",
-    "chunkName": "pages/parentSignup",
-    "_name": "_8773c06c"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\parentSignup.vue",
+    "chunkName": "pages/parentSignup"
   },
   {
     "name": "payments___ar",
     "path": "/ar/payments",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\payments.vue",
-    "chunkName": "pages/payments",
-    "_name": "_3a3b09d6"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\payments.vue",
+    "chunkName": "pages/payments"
   },
   {
     "name": "showAnswers___ar",
     "path": "/ar/showAnswers",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\showAnswers.vue",
-    "chunkName": "pages/showAnswers",
-    "_name": "_79cd3b80"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\showAnswers.vue",
+    "chunkName": "pages/showAnswers"
   },
   {
     "name": "signup___ar",
     "path": "/ar/signup",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\signup.vue",
-    "chunkName": "pages/signup",
-    "_name": "_7888a380"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup"
   },
   {
     "name": "studentSignup___ar",
     "path": "/ar/studentSignup",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\studentSignup.vue",
-    "chunkName": "pages/studentSignup",
-    "_name": "_3588327b"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\studentSignup.vue",
+    "chunkName": "pages/studentSignup"
   },
   {
     "name": "user___ar",
     "path": "/ar/user",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\user.vue",
-    "chunkName": "pages/user",
-    "_name": "_580f7e9a"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\user.vue",
+    "chunkName": "pages/user"
   },
   {
     "name": "Vacancies___ar",
     "path": "/ar/Vacancies",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\Vacancies.vue",
-    "chunkName": "pages/Vacancies",
-    "_name": "_66a3ca81"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\Vacancies.vue",
+    "chunkName": "pages/Vacancies"
   },
   {
     "name": "GeneralViews-NotFoundPage___en",
     "path": "/GeneralViews/NotFoundPage",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\GeneralViews\\\\NotFoundPage.vue",
-    "chunkName": "pages/GeneralViews/NotFoundPage",
-    "_name": "_fc67f0a8"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\GeneralViews\\\\NotFoundPage.vue",
+    "chunkName": "pages/GeneralViews/NotFoundPage"
   },
   {
     "name": "GeneralViews-NotFoundPage___ar",
     "path": "/ar/GeneralViews/NotFoundPage",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\GeneralViews\\\\NotFoundPage.vue",
-    "chunkName": "pages/GeneralViews/NotFoundPage",
-    "_name": "_fc67f0a8"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\GeneralViews\\\\NotFoundPage.vue",
+    "chunkName": "pages/GeneralViews/NotFoundPage"
   },
   {
     "name": "index___en",
     "path": "/",
-    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\task_March\\\\PE-cognize-app-nuxt\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_69519c9a"
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   }
 ]

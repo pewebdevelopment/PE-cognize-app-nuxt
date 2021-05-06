@@ -3,12 +3,12 @@
   <h1>Pay now for demo classes</h1>
     
         <div class="my-8">
-          <button
+         <b-button 
             @click="order"
             class="bg-black text-white font-bold w-full text-2xl text-center p-2 rounded-lg border-4 border-black"
           >
             Pay ₹ 1
-          </button>
+          </b-button>
         </div>
         <p v-if="payment_id" class="text-xl text-center font-bold">
           Your Order was succesful, here is your payment reference #{{

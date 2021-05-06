@@ -47,8 +47,8 @@
    
     <br/>
     <div class="text-center mt-4">
-      <button class="btn btn-unique" type="submit" >Signup</button>
-      <button class="btn btn-unique" @click="teacherSignup" >Teacher signUp</button>
+      <button class="btn btn-unique" type="submit" >Proceed to Parent Signup</button>
+     
     </div>
   </form>
  

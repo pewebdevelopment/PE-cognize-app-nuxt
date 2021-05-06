@@ -18,22 +18,6 @@
         </sidebar-item>
         </div>
       <div v-if =" role === 'No Access' ">
-       <sidebar-item
-          :link="{
-            name: 'loginPage',
-            icon: 'tim-icons icon-chart-pie-36',
-            path: '/login',
-          }"
-        >
-        </sidebar-item>
-        <sidebar-item
-          :link="{
-            name: 'signupPage',
-            icon: 'tim-icons icon-chart-pie-36',
-            path: '/signup',
-          }"
-        >
-        </sidebar-item>
         </div>
 
         <div v-if =" role === 'candidate' ">
@@ -46,35 +30,7 @@
         >
         </sidebar-item>
         </div>
-        <div v-if =" role === 'candidate' ">
-        <sidebar-item 
-          :link="{
-            name: 'vacancy',
-            icon: 'tim-icons icon-atom',
-            path: '/candidatevacancy',
-          }"
-        >
-        </sidebar-item>
-        </div>
-        <div v-if =" role === 'admin'||role==='super-admin' ">
-        <sidebar-item 
-          :link="{
-            name: 'vacancy',
-            icon: 'tim-icons icon-atom',
-            path: '/Vacancies',
-          }"
-        >
-        </sidebar-item>
-        </div>
-        <!--
-        <sidebar-item
-          :link="{
-            name: 'Vacany',
-            icon: 'tim-icons icon-pin',
-            path: '/Vacancies',
-          }"
-        >
-        </sidebar-item>-->
+        
         <div v-if =" role ==='student' ">
         <sidebar-item
           :link="{
@@ -86,56 +42,6 @@
         </sidebar-item>
         </div>
 
-      <div v-if =" role != 'No Access' ">
-        <sidebar-item
-          :link="{
-            name: 'response',
-            icon: 'tim-icons icon-bell-55',
-            path: '/candidateresponse',
-          }"
-        >
-        </sidebar-item>
-        </div>
-        <!--
-        <sidebar-item
-          :link="{
-            name: $t('sidebar.userProfile'),
-            icon: 'tim-icons icon-single-02',
-            path: '/user',
-          }"
-        >
-        </sidebar-item>
-        <sidebar-item
-          :link="{
-            name: $t('sidebar.regularTables'),
-            icon: 'tim-icons icon-puzzle-10',
-            path: '/regular',
-          }"
-        ></sidebar-item>
-        <sidebar-item
-          :link="{
-            name: $t('sidebar.typography'),
-            icon: 'tim-icons icon-align-center',
-            path: '/typography',
-          }"
-        ></sidebar-item>
-        <sidebar-item
-          :link="{
-            name: $t('sidebar.rtl'),
-            icon: 'tim-icons icon-world',
-            path: localePath('/rtl', 'ar'),
-          }"
-        ></sidebar-item>
-        <li class="active-pro">
-          <a
-            href="https://www.creative-tim.com/product/nuxt-black-dashboard-pro"
-            target="_blank"
-          >
-            <i class="tim-icons icon-spaceship"></i>
-            <p>Upgrade to PRO</p>
-          </a>
-        </li>
-        -->
       </template>
     </side-bar>
     <!--Share plugin (for demo purposes). You can remove it if don't plan on using it-->
