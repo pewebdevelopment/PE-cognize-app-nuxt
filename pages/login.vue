@@ -38,7 +38,7 @@
     <label for="defaultFormLoginPasswordEx" class="grey-text">Your password</label>
     <input type="password" v-model = "password" id="defaultFormLoginPasswordEx" class="form-control"/>
     <div class="text-center mt-4">
-      <button class="btn btn-indigo" type="submit">Signin</button>
+      <button class="btn btn-indigo" type="submit">Login</button>
     </div>
   </form>
   
