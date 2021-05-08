@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "name": "index___ar",
     "path": "/ar",
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\index.vue",
@@ -12,52 +13,145 @@
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\file.vue",
     "chunkName": "pages/file",
     "_name": "_10b8d957"
+=======
+    "name": "addVancany___en",
+    "path": "/addVancany",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\addVancany.vue",
+    "chunkName": "pages/addVancany",
+    "_name": "_3ddf459c"
+  },
+  {
+    "name": "adminSignup___en",
+    "path": "/adminSignup",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\adminSignup.vue",
+    "chunkName": "pages/adminSignup",
+    "_name": "_2441b366"
+  },
+  {
+    "name": "applyVacancy___en",
+    "path": "/applyVacancy",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\applyVacancy.vue",
+    "chunkName": "pages/applyVacancy",
+    "_name": "_60695b1e"
+  },
+  {
+    "name": "index___ar",
+    "path": "/ar",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0cc3729e"
+  },
+  {
+    "name": "candidate___en",
+    "path": "/candidate",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "_name": "_bd59113c"
+  },
+  {
+    "name": "candidateresponse___en",
+    "path": "/candidateresponse",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\candidateresponse.vue",
+    "chunkName": "pages/candidateresponse",
+    "_name": "_5df01923"
+  },
+  {
+    "name": "candidatevacancy___en",
+    "path": "/candidatevacancy",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\candidatevacancy.vue",
+    "chunkName": "pages/candidatevacancy",
+    "_name": "_6ff05d89"
+  },
+  {
+    "name": "editVacancy___en",
+    "path": "/editVacancy",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\editVacancy.vue",
+    "chunkName": "pages/editVacancy",
+    "_name": "_f48287a0"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "login___en",
     "path": "/login",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\login.vue",
     "chunkName": "pages/login",
     "_name": "_1e0542c4"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_79742c70"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "notifications___en",
     "path": "/notifications",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\notifications.vue",
     "chunkName": "pages/notifications",
     "_name": "_b62e80c6"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\notifications.vue",
+    "chunkName": "pages/notifications",
+    "_name": "_2ab080c7"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "parentSignup___en",
     "path": "/parentSignup",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\parentSignup.vue",
     "chunkName": "pages/parentSignup",
     "_name": "_ff0a6786"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\parentSignup.vue",
+    "chunkName": "pages/parentSignup",
+    "_name": "_5b813dd3"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "payments___en",
     "path": "/payments",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\payments.vue",
     "chunkName": "pages/payments",
     "_name": "_446d5908"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\payments.vue",
+    "chunkName": "pages/payments",
+    "_name": "_2c68059e"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "showAnswers___en",
     "path": "/showAnswers",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\showAnswers.vue",
     "chunkName": "pages/showAnswers",
     "_name": "_ce3096a6"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\showAnswers.vue",
+    "chunkName": "pages/showAnswers",
+    "_name": "_4521b857"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "signup___en",
     "path": "/signup",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\signup.vue",
     "chunkName": "pages/signup",
     "_name": "_7b086233"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_1c5d876e"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "studentSignup___en",
     "path": "/studentSignup",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\studentSignup.vue",
     "chunkName": "pages/studentSignup",
     "_name": "_102dd730"
@@ -68,75 +162,217 @@
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\file.vue",
     "chunkName": "pages/file",
     "_name": "_10b8d957"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\studentSignup.vue",
+    "chunkName": "pages/studentSignup",
+    "_name": "_7db0d592"
+  },
+  {
+    "name": "user___en",
+    "path": "/user",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\user.vue",
+    "chunkName": "pages/user",
+    "_name": "_22f277bc"
+  },
+  {
+    "name": "Vacancies___en",
+    "path": "/Vacancies",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\Vacancies.vue",
+    "chunkName": "pages/Vacancies",
+    "_name": "_4dcf9118"
+  },
+  {
+    "name": "addVancany___ar",
+    "path": "/ar/addVancany",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\addVancany.vue",
+    "chunkName": "pages/addVancany",
+    "_name": "_3ddf459c"
+  },
+  {
+    "name": "adminSignup___ar",
+    "path": "/ar/adminSignup",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\adminSignup.vue",
+    "chunkName": "pages/adminSignup",
+    "_name": "_2441b366"
+  },
+  {
+    "name": "applyVacancy___ar",
+    "path": "/ar/applyVacancy",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\applyVacancy.vue",
+    "chunkName": "pages/applyVacancy",
+    "_name": "_60695b1e"
+  },
+  {
+    "name": "candidate___ar",
+    "path": "/ar/candidate",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\candidate.vue",
+    "chunkName": "pages/candidate",
+    "_name": "_bd59113c"
+  },
+  {
+    "name": "candidateresponse___ar",
+    "path": "/ar/candidateresponse",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\candidateresponse.vue",
+    "chunkName": "pages/candidateresponse",
+    "_name": "_5df01923"
+  },
+  {
+    "name": "candidatevacancy___ar",
+    "path": "/ar/candidatevacancy",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\candidatevacancy.vue",
+    "chunkName": "pages/candidatevacancy",
+    "_name": "_6ff05d89"
+  },
+  {
+    "name": "editVacancy___ar",
+    "path": "/ar/editVacancy",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\editVacancy.vue",
+    "chunkName": "pages/editVacancy",
+    "_name": "_f48287a0"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "login___ar",
     "path": "/ar/login",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\login.vue",
     "chunkName": "pages/login",
     "_name": "_1e0542c4"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_79742c70"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "notifications___ar",
     "path": "/ar/notifications",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\notifications.vue",
     "chunkName": "pages/notifications",
     "_name": "_b62e80c6"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\notifications.vue",
+    "chunkName": "pages/notifications",
+    "_name": "_2ab080c7"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "parentSignup___ar",
     "path": "/ar/parentSignup",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\parentSignup.vue",
     "chunkName": "pages/parentSignup",
     "_name": "_ff0a6786"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\parentSignup.vue",
+    "chunkName": "pages/parentSignup",
+    "_name": "_5b813dd3"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "payments___ar",
     "path": "/ar/payments",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\payments.vue",
     "chunkName": "pages/payments",
     "_name": "_446d5908"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\payments.vue",
+    "chunkName": "pages/payments",
+    "_name": "_2c68059e"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "showAnswers___ar",
     "path": "/ar/showAnswers",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\showAnswers.vue",
     "chunkName": "pages/showAnswers",
     "_name": "_ce3096a6"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\showAnswers.vue",
+    "chunkName": "pages/showAnswers",
+    "_name": "_4521b857"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "signup___ar",
     "path": "/ar/signup",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\signup.vue",
     "chunkName": "pages/signup",
     "_name": "_7b086233"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_1c5d876e"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "studentSignup___ar",
     "path": "/ar/studentSignup",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\studentSignup.vue",
     "chunkName": "pages/studentSignup",
     "_name": "_102dd730"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\studentSignup.vue",
+    "chunkName": "pages/studentSignup",
+    "_name": "_7db0d592"
+  },
+  {
+    "name": "user___ar",
+    "path": "/ar/user",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\user.vue",
+    "chunkName": "pages/user",
+    "_name": "_22f277bc"
+  },
+  {
+    "name": "Vacancies___ar",
+    "path": "/ar/Vacancies",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\Vacancies.vue",
+    "chunkName": "pages/Vacancies",
+    "_name": "_4dcf9118"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "GeneralViews-NotFoundPage___en",
     "path": "/GeneralViews/NotFoundPage",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\GeneralViews\\\\NotFoundPage.vue",
     "chunkName": "pages/GeneralViews/NotFoundPage",
     "_name": "_b8172242"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\GeneralViews\\\\NotFoundPage.vue",
+    "chunkName": "pages/GeneralViews/NotFoundPage",
+    "_name": "_3cf161f5"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "GeneralViews-NotFoundPage___ar",
     "path": "/ar/GeneralViews/NotFoundPage",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\GeneralViews\\\\NotFoundPage.vue",
     "chunkName": "pages/GeneralViews/NotFoundPage",
     "_name": "_b8172242"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\GeneralViews\\\\NotFoundPage.vue",
+    "chunkName": "pages/GeneralViews/NotFoundPage",
+    "_name": "_3cf161f5"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   },
   {
     "name": "index___en",
     "path": "/",
+<<<<<<< HEAD
     "component": "G:\\\\cog\\\\PE-cognize-app-nuxt\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
     "_name": "_2755bb87"
+=======
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\Past\\\\PE-cognize-app-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0cc3729e"
+>>>>>>> 449e11f93b7e59e4a59c6aa39cef4bf1a09ee37d
   }
 ]
